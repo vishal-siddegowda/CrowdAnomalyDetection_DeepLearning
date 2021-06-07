@@ -1,0 +1,9 @@
+->Since the data is already ready,
+Please Don't run the video to frames convertion code "Vid_to_Frames_and_CLAHE_images.ipynb"
+->Please Use the CLAHE images for the implementation, and 
+change the directory path in the code "Final_WEB_Crowd_Anomaly.ipynb" 
+as per your preference and where ever required.
+->Use a system with high RAM and GPU whilst running the model.
+I have used google collab to run the code. so i have changed the path according to my 
+preference. 
+If any error occurs, please do check the directory path while running the model.
